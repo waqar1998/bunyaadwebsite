@@ -1,1 +1,1 @@
-# bunyaadwebsite
+"Bunyaad" is a real estate website used for buying and selling properties such as lands, house plots, etc. From your description, it seems that the website is built using Next.js, Tailwind CSS, React.js, and jQuery. # bunyaadwebsite
